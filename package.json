@@ -1,0 +1,14 @@
+{
+  "name": "tutorialapp",
+  "version": "14.17.3",
+  "description": "tutorial",
+  "main": "app.js",
+  "scripts": {},
+  "author": "huangshuai",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^3.5.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+  }
+}
